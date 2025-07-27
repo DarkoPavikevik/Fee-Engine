@@ -19,6 +19,7 @@
 ### 1. Клонирај го проектот
 ### bash
 git clone https://github.com/DarkoPavikevik/Fee-Engine.git
+
 cd fee-engine-app
 
 ### 2. Стартувај ја апликацијата
