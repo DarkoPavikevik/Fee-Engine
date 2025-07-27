@@ -20,7 +20,7 @@
 ### bash
 git clone https://github.com/DarkoPavikevik/Fee-Engine.git
 
-cd cd Fee-Engine
+cd Fee-Engine
 
 ### 2. Стартувај ја апликацијата
 
